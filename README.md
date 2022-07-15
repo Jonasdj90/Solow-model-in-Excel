@@ -1,5 +1,5 @@
 # Solow-model-in-Excel
-Plug and play version of the Solow model in Excel. By adjusting the variables capital share of income, the rate of saving, the depreciation rate of the capital stock and the rate of economic growth; the model automatically calculates  paramaters like the stead-state level of output and consumption, the golden rule level of output and consumption. 
+Plug and play version of the Solow model in Excel. By adjusting the variables capital share of income, the rate of saving, the depreciation rate of the capital stock and the rate of economic growth; the model automatically calculates  paramaters like the steady-state level of output and consumption, the golden rule level of output and consumption. 
 
 In the worksheet Convergence, you can calculate the new steady-state level of output if the rate of saving in the economy were raised to a higher level.
 
